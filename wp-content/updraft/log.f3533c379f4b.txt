@@ -1,0 +1,222 @@
+0000.000 (0) Opened log file at time: Fri, 17 Feb 2017 05:50:15 +0000 on http://rmsaxiom.com
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.32 WP: 4.7.2 PHP: 5.5.9-1ubuntu4.20 (apache2handler, Linux rms-axiom-web 4.4.0-62-generic #83~14.04.1-Ubuntu SMP Wed Jan 18 18:10:30 UTC 2017 x86_64) MySQL: 5.5.54 WPLANG: en_US Server: Apache/2.4.7 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 8.2M | 8.5M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 26640.6 MB
+0000.005 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.022 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.027 (0) Set semaphore last lock (fd) time to 2017-02-17 05:50:15
+0000.029 (0) Semaphore lock (fd) complete
+0000.036 (0) Backup run: resumption=0, nonce=f3533c379f4b, begun at=1487310615 (0s ago), job type=backup
+0000.040 (0) Scheduling a resumption (1) after 300 seconds (1487310915) in case this run gets aborted
+0000.063 (0) Checking if we have a zip executable available
+0000.066 (0) Creation of backups of directories: beginning
+0000.071 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.298 (0) Total entities for the zip file: 495 directories, 4557 files (0 skipped as non-modified), 48.3 MB
+0000.313 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.321 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.330 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.342 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.352 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.354 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.4 MB, 4557 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0000.861 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 600 files added (on-disk size: 3521 KB)
+0000.872 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 700 files added (on-disk size: 3521 KB)
+0000.881 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 800 files added (on-disk size: 3521 KB)
+0000.891 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 900 files added (on-disk size: 3521 KB)
+0000.900 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 1000 files added (on-disk size: 3521 KB)
+0000.905 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.7 MB, 4557 files batched, 501 (1002) added so far); re-opening (prior size: 3521 KB)
+0001.618 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 1100 files added (on-disk size: 5373.5 KB)
+0001.630 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 1200 files added (on-disk size: 5373.5 KB)
+0001.641 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 1300 files added (on-disk size: 5373.5 KB)
+0001.656 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 1400 files added (on-disk size: 5373.5 KB)
+0001.668 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 1500 files added (on-disk size: 5373.5 KB)
+0001.671 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.5 MB, 4557 files batched, 501 (1503) added so far); re-opening (prior size: 5373.5 KB)
+0002.013 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 1600 files added (on-disk size: 6700.3 KB)
+0002.027 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 1700 files added (on-disk size: 6700.3 KB)
+0002.041 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 1800 files added (on-disk size: 6700.3 KB)
+0002.055 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 1900 files added (on-disk size: 6700.3 KB)
+0002.072 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 2000 files added (on-disk size: 6700.3 KB)
+0002.075 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.1 MB, 4557 files batched, 501 (2004) added so far); re-opening (prior size: 6700.3 KB)
+0002.235 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 2100 files added (on-disk size: 6908.7 KB)
+0002.251 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 2200 files added (on-disk size: 6908.7 KB)
+0002.264 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 2300 files added (on-disk size: 6908.7 KB)
+0002.278 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 2400 files added (on-disk size: 6908.7 KB)
+0002.294 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 2500 files added (on-disk size: 6908.7 KB)
+0002.297 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.8 MB, 4557 files batched, 501 (2505) added so far); re-opening (prior size: 6908.7 KB)
+0003.087 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 2600 files added (on-disk size: 9955.7 KB)
+0003.102 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 2700 files added (on-disk size: 9955.7 KB)
+0003.117 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 2800 files added (on-disk size: 9955.7 KB)
+0003.133 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 2900 files added (on-disk size: 9955.7 KB)
+0003.148 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 3000 files added (on-disk size: 9955.7 KB)
+0003.151 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.4 MB, 4557 files batched, 501 (3006) added so far); re-opening (prior size: 9955.7 KB)
+0003.422 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 3100 files added (on-disk size: 10833.5 KB)
+0003.440 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 3200 files added (on-disk size: 10833.5 KB)
+0003.459 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 3300 files added (on-disk size: 10833.5 KB)
+0003.477 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 3400 files added (on-disk size: 10833.5 KB)
+0003.494 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 3500 files added (on-disk size: 10833.5 KB)
+0003.498 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.6 MB, 4557 files batched, 501 (3507) added so far); re-opening (prior size: 10833.5 KB)
+0004.375 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 3600 files added (on-disk size: 13119.8 KB)
+0004.392 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 3700 files added (on-disk size: 13119.8 KB)
+0004.419 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 3800 files added (on-disk size: 13119.8 KB)
+0004.439 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 3900 files added (on-disk size: 13119.8 KB)
+0004.456 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 4000 files added (on-disk size: 13119.8 KB)
+0004.460 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.1 MB, 4557 files batched, 501 (4008) added so far); re-opening (prior size: 13119.8 KB)
+0005.523 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 4100 files added (on-disk size: 16415.3 KB)
+0005.543 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 4200 files added (on-disk size: 16415.3 KB)
+0005.570 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 4300 files added (on-disk size: 16415.3 KB)
+0005.590 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 4400 files added (on-disk size: 16415.3 KB)
+0005.609 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip.tmp: 4500 files added (on-disk size: 16415.3 KB)
+0005.613 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.2 MB, 4557 files batched, 501 (4509) added so far); re-opening (prior size: 16415.3 KB)
+0006.580 (0) Created plugins zip (0) - 18929 KB in 6.5 s (2909.3 KB/s) (SHA1 checksum: dda4c0e84221ac479370d8a2ee546c8f379d3950)
+0006.584 (0) Beginning creation of dump of themes (split every: 400 MB)
+0006.602 (0) Total entities for the zip file: 37 directories, 326 files (0 skipped as non-modified), 11.3 MB
+0006.607 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0006.612 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0006.618 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0007.232 (0) Created themes zip (0) - 9221.5 KB in 0.6 s (14286.6 KB/s) (SHA1 checksum: f2caf2d3103a96ab036a2fd882533e23656ed8f4)
+0007.236 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0007.237 (0) Looking for candidates to back up in: /var/www/rms-design/wp-content/uploads
+0007.238 (0) finding files: revslider: adding to list (1)
+0007.239 (0) finding files: 2017: adding to list (2)
+0007.240 (0) finding files: 2016: adding to list (3)
+0007.240 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0007.272 (0) Total entities for the zip file: 97 directories, 520 files (0 skipped as non-modified), 22.6 MB
+0007.279 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0007.285 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0007.292 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0007.307 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0007.316 (0) Zip: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0007.318 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (21.6 MB, 520 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0008.938 (0) Created uploads zip (0) - 22922.2 KB in 1.7 s (13517.3 KB/s) (SHA1 checksum: 7544b28756bf40976b299b7512d8a7f81c635ac1)
+0008.942 (0) Beginning backup of other directories found in the content directory (index: 0)
+0008.944 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0008.945 (0) Looking for candidates to back up in: /var/www/rms-design/wp-content
+0008.947 (0) finding files: upgrade: skipping: excluded by options
+0008.948 (0) finding files: themes: skipping: this is the themes directory
+0008.949 (0) finding files: uploads: skipping: this is the uploads directory
+0008.950 (0) finding files: plugins: skipping: this is the plugins directory
+0008.952 (0) finding files: updraft: skipping: this is the updraft directory
+0008.953 (0) finding files: index.php: adding to list (1)
+0008.957 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0008.963 (0) Created others zip (0) - 0.1 KB in 0 s (16.5 KB/s) (SHA1 checksum: 6ed7e4e473fe843d775848b0199f5f334841fb27)
+0008.969 (0) Saving backup status to database (elements: 8)
+0008.973 (0) Beginning creation of database dump (WordPress DB)
+0008.977 (0) Testing: /usr/bin/mysqldump
+0009.003 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wprms_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\n (truncated - 1188 bytes total)
+0009.006 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0009.020 (0) Table wprms_options: Total expected rows (approximate): 459
+0009.074 (0) Table wprms_options: Total rows added: 350 in 0.05 seconds
+0009.077 (0) Table wprms_options: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_options.table.gz - 131.7 KB)
+0009.084 (0) Table wprms_users: Total expected rows (approximate): 1
+0009.089 (0) Table wprms_users: Total rows added: 1 in 0.00 seconds
+0009.092 (0) Table wprms_users: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_users.table.gz - 0.6 KB)
+0009.096 (0) Table wprms_usermeta: Total expected rows (approximate): 25
+0009.099 (0) Table wprms_usermeta: Total rows added: 25 in 0.00 seconds
+0009.102 (0) Table wprms_usermeta: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_usermeta.table.gz - 1.3 KB)
+0009.107 (0) Table wprms_commentmeta: Total expected rows (approximate): 0
+0009.110 (0) Table wprms_commentmeta: Total rows added: 0 in 0.00 seconds
+0009.111 (0) Table wprms_commentmeta: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_commentmeta.table.gz - 0.4 KB)
+0009.116 (0) Table wprms_comments: Total expected rows (approximate): 0
+0009.119 (0) Table wprms_comments: Total rows added: 0 in 0.00 seconds
+0009.121 (0) Table wprms_comments: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_comments.table.gz - 0.5 KB)
+0009.126 (0) Table wprms_links: Total expected rows (approximate): 0
+0009.129 (0) Table wprms_links: Total rows added: 0 in 0.00 seconds
+0009.130 (0) Table wprms_links: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_links.table.gz - 0.4 KB)
+0009.137 (0) Table wprms_postmeta: Total expected rows (approximate): 1995
+0009.203 (0) Table wprms_postmeta: Total rows added: 2603 in 0.06 seconds
+0009.207 (0) Table wprms_postmeta: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_postmeta.table.gz - 65.7 KB)
+0009.214 (0) Table wprms_posts: Total expected rows (approximate): 316
+0009.247 (0) Table wprms_posts: Total rows added: 290 in 0.03 seconds
+0009.250 (0) Table wprms_posts: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_posts.table.gz - 20.2 KB)
+0009.257 (0) Table wprms_term_relationships: Total expected rows (approximate): 23
+0009.259 (0) Table wprms_term_relationships: Total rows added: 23 in 0.00 seconds
+0009.261 (0) Table wprms_term_relationships: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_term_relationships.table.gz - 0.4 KB)
+0009.266 (0) Table wprms_term_taxonomy: Total expected rows (approximate): 5
+0009.269 (0) Table wprms_term_taxonomy: Total rows added: 5 in 0.00 seconds
+0009.270 (0) Table wprms_term_taxonomy: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_term_taxonomy.table.gz - 0.5 KB)
+0009.276 (0) Table wprms_termmeta: Total expected rows (approximate): 0
+0009.278 (0) Table wprms_termmeta: Total rows added: 0 in 0.00 seconds
+0009.280 (0) Table wprms_termmeta: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_termmeta.table.gz - 0.4 KB)
+0009.285 (0) Table wprms_terms: Total expected rows (approximate): 5
+0009.287 (0) Table wprms_terms: Total rows added: 5 in 0.00 seconds
+0009.289 (0) Table wprms_terms: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_terms.table.gz - 0.5 KB)
+0009.293 (0) Table wprms_cf7dbplugin_st: Total expected rows (approximate): 31
+0009.295 (0) Table wprms_cf7dbplugin_st: Total rows added: 31 in 0.00 seconds
+0009.297 (0) Table wprms_cf7dbplugin_st: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_cf7dbplugin_st.table.gz - 0.5 KB)
+0009.301 (0) Table wprms_cf7dbplugin_submits: Total expected rows (approximate): 187
+0009.308 (0) Table wprms_cf7dbplugin_submits: Total rows added: 187 in 0.01 seconds
+0009.311 (0) Table wprms_cf7dbplugin_submits: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_cf7dbplugin_submits.table.gz - 2.1 KB)
+0009.318 (0) Table wprms_datalist: Total expected rows (approximate): 0
+0009.320 (0) Table wprms_datalist: Total rows added: 0 in 0.00 seconds
+0009.321 (0) Table wprms_datalist: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_datalist.table.gz - 0.3 KB)
+0009.326 (0) Table wprms_revslider_css: Total expected rows (approximate): 109
+0009.336 (0) Table wprms_revslider_css: Total rows added: 109 in 0.01 seconds
+0009.338 (0) Table wprms_revslider_css: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_revslider_css.table.gz - 4.8 KB)
+0009.344 (0) Table wprms_revslider_layer_animations: Total expected rows (approximate): 0
+0009.346 (0) Table wprms_revslider_layer_animations: Total rows added: 0 in 0.00 seconds
+0009.348 (0) Table wprms_revslider_layer_animations: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_revslider_layer_animations.table.gz - 0.3 KB)
+0009.355 (0) Table wprms_revslider_navigations: Total expected rows (approximate): 0
+0009.362 (0) Table wprms_revslider_navigations: Total rows added: 0 in 0.00 seconds
+0009.365 (0) Table wprms_revslider_navigations: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_revslider_navigations.table.gz - 0.3 KB)
+0009.370 (0) Table wprms_revslider_sliders: Total expected rows (approximate): 1
+0009.374 (0) Table wprms_revslider_sliders: Total rows added: 1 in 0.00 seconds
+0009.377 (0) Table wprms_revslider_sliders: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_revslider_sliders.table.gz - 3 KB)
+0009.384 (0) Table wprms_revslider_slides: Total expected rows (approximate): 1
+0009.387 (0) Table wprms_revslider_slides: Total rows added: 1 in 0.00 seconds
+0009.389 (0) Table wprms_revslider_slides: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_revslider_slides.table.gz - 3.4 KB)
+0009.396 (0) Table wprms_revslider_static_slides: Total expected rows (approximate): 0
+0009.399 (0) Table wprms_revslider_static_slides: Total rows added: 0 in 0.00 seconds
+0009.401 (0) Table wprms_revslider_static_slides: finishing file (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_revslider_static_slides.table.gz - 0.3 KB)
+0009.407 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_options.table.gz (1/21): adding to final database dump
+0009.439 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_users.table.gz (2/21): adding to final database dump
+0009.442 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_usermeta.table.gz (3/21): adding to final database dump
+0009.443 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_commentmeta.table.gz (4/21): adding to final database dump
+0009.445 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_comments.table.gz (5/21): adding to final database dump
+0009.447 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_links.table.gz (6/21): adding to final database dump
+0009.449 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_postmeta.table.gz (7/21): adding to final database dump
+0009.478 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_posts.table.gz (8/21): adding to final database dump
+0009.487 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_term_relationships.table.gz (9/21): adding to final database dump
+0009.490 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_term_taxonomy.table.gz (10/21): adding to final database dump
+0009.493 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_termmeta.table.gz (11/21): adding to final database dump
+0009.494 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_terms.table.gz (12/21): adding to final database dump
+0009.495 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_cf7dbplugin_st.table.gz (13/21): adding to final database dump
+0009.496 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_cf7dbplugin_submits.table.gz (14/21): adding to final database dump
+0009.499 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_datalist.table.gz (15/21): adding to final database dump
+0009.502 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_revslider_css.table.gz (16/21): adding to final database dump
+0009.507 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_revslider_layer_animations.table.gz (17/21): adding to final database dump
+0009.509 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_revslider_navigations.table.gz (18/21): adding to final database dump
+0009.510 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_revslider_sliders.table.gz (19/21): adding to final database dump
+0009.512 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_revslider_slides.table.gz (20/21): adding to final database dump
+0009.514 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db-table-wprms_revslider_static_slides.table.gz (21/21): adding to final database dump
+0009.515 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db.gz: finished writing out complete database file (208 KB)
+0009.521 (0) Total database tables backed up: 21 (backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db.gz, size: 238074, checksum (SHA1): 932a1b1549842a82c3587e2653ae0ccc4677946d)
+0009.526 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0009.528 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0009.529 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0009.529 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0009.530 (0) backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db.gz: db: This file has not yet been successfully uploaded: will queue
+0009.531 (0) Saving backup history. Total backup size: 50.1 MB
+0009.533 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0009.537 (0) Cloud backup selection (1/1): none (last)
+0009.538 (0) No remote despatch: user chose no remote backup service
+0009.541 (0) Recording as successfully uploaded: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-plugins.zip (dc4c58cdd5c335f70c5c5aa91e50b2ec)
+0009.546 (0) Recording as successfully uploaded: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-themes.zip (15da3c7b979354dda24005f5140342a7)
+0009.551 (0) Recording as successfully uploaded: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-uploads.zip (badbf5045c1565627b22e72a9735bc62)
+0009.556 (0) Recording as successfully uploaded: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-others.zip (e6af8157b98b5c5acfa05609ec2361b4)
+0009.560 (0) Recording as successfully uploaded: backup_2017-02-17-0050_Real_Management_Services_f3533c379f4b-db.gz (085b097a0818d6fef6ca9addf1d773dc)
+0009.566 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0009.568 (0) Number of backup sets in history: 1; groups (db): 1
+0009.569 (0) Examining (for databases) backup set with group_id=0, nonce=f3533c379f4b, datestamp=1487310615 (Feb 17 2017 05:50:15)
+0009.570 (0) This backup set is the backup set just made, so will not be deleted.
+0009.571 (0) Number of backup sets in history: 1; groups (files): 1
+0009.572 (0) Examining (for files) backup set with nonce=f3533c379f4b, datestamp=1487310615 (Feb 17 2017 05:50:15)
+0009.573 (0) This backup set is the backup set just made, so will not be deleted.
+0009.573 (0) This backup set is the backup set just made, so will not be deleted.
+0009.574 (0) This backup set is the backup set just made, so will not be deleted.
+0009.574 (0) This backup set is the backup set just made, so will not be deleted.
+0009.574 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0009.576 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0009.578 (0) Resume backup (f3533c379f4b, 0): finish run
+0009.581 (0) Decremented the semaphore (fd) by 1
+0009.584 (0) Semaphore (fd) unlocked
+0009.585 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0009.589 (0) No email will/can be sent - the user has not configured an email address.
+0009.590 (0) The backup apparently succeeded and is now complete

@@ -1,0 +1,7 @@
+.sample{margin:0px;padding:10px 10px 0 10px}
+dl{line-height:150%;margin-bottom:20px}
+dl,dt,dd{padding:0;margin:0;}
+.faqs{padding-top:10px}
+.faqs dt:hover{cursor:pointer}
+.faqs a,.faqs a:hover{text-decoration:none;}
+
